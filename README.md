@@ -64,3 +64,9 @@ En este punto debemos exportar los puertos 8888 y 8550 para poder acceder al wor
 * Vamos a la pestaña ports en la ventana de VScode en la que tenemos la conexión a la VM y agregamos los puertos clickeando en **Add port** y listo. 
 
 ![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_ports.png)
+
+## 5. Acceder workspace
+
+En su navegador vayan a *http://localhost:8888/tree* para acceder al workspace:
+
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/workspace.png)
