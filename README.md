@@ -55,7 +55,7 @@ Vamos a la ventana de VScode y creamos la conexión a la VM:
 * En este punto deben encontrar el path al archivo config que creamos en el paso 3. Seleccionan ds4a y esperan a que se genere la conexión. En última instancia,
 deberían ver algo como:
 
-![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_vm_conn.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_vm_conn.PNG)
 
 ## 4. Exportar puertos
 
