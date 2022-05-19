@@ -1,11 +1,11 @@
 # VM-tutorial
 
-En este tutorial vamos a aprender cómo conectarnos a una VM en la nube, en la cual vamos a desarrollar la parte analítica del proyecto. Para ello vamos a completar los siguientes pasos:
+En este tutorial vamos a aprender cómo conectarnos a una VM en la nube, en la cual vamos a desarrollar la parte analítica del proyecto. Para ello vamos a seguir los siguientes pasos:
 
-**1**. Instalar VScode
-**2**. Crear Config file
-**3**. Crear conexión a la VM 
-**4**. Agregar los puertos para acceder al Workspace
+1. Instalar VScode
+2. Crear Config file
+3. Crear conexión a la VM 
+4. Agregar los puertos para acceder al Workspace
 
 ## 1. Instalar VScode
 
