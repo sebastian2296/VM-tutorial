@@ -2,10 +2,10 @@
 
 En este tutorial vamos a aprender cómo conectarnos a una VM en la nube, en la cual vamos a desarrollar la parte analítica del proyecto. Para ello vamos a completar los siguientes pasos:
 
-1. Instalar VScode
-2. Crear Config file
-3. Crear conexión a la VM 
-4. Agregar los puertos para acceder al Workspace
+**1**. Instalar VScode
+**2**. Crear Config file
+**3**. Crear conexión a la VM 
+**4**. Agregar los puertos para acceder al Workspace
 
 ## 1. Instalar VScode
 
@@ -26,7 +26,7 @@ Vamos a crear un config file para hacer la conexión por medio de SSH. Para esto
 
 * Creamos la carpeta en la que este archivo va a vivir con el siguiente comando: `mkdir .ssh` . Si les aparece que ya existe, no hay problema. Si no les aparece nada, tampoco hay problema :D 
 
-*Creamos el archivo : 
+* Creamos el archivo : 
 
 ```sh
 cd .ssh/ 
