@@ -69,4 +69,4 @@ En este punto debemos exportar los puertos 8888 y 8550 para poder acceder al wor
 
 En su navegador vayan a *http://localhost:8888/tree* para acceder al workspace:
 
-![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/workspace.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/workspace.PNG)
