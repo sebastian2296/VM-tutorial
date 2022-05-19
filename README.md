@@ -11,7 +11,7 @@ En este tutorial vamos a aprender cómo conectarnos a una VM en la nube, en la c
 
 Instalen la versión de su preferencia de  [VScode](https://code.visualstudio.com/download) e instalen las siguientes extensiones:
 
-![alt text](sebastian2296/https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_extensions.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_extensions.png)
 
 
 ## 2. Crear config file
@@ -50,12 +50,12 @@ Vamos a la ventana de VScode y creamos la conexión a la VM:
 
 * Damos click sobre el ícono verde en la parte inferior izquierda y creamos la conexión con la opicón **Connect to Host**.
 
-![alt text](sebastian2296/https://github.com/sebastian2296/VM-tutorial/blob/main/img/ssh_conn.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/ssh_conn.png)
 
 * En este punto deben encontrar el path al archivo config que creamos en el paso 3. Seleccionan ds4a y esperan a que se genere la conexión. En última instancia,
 deberían ver algo como:
 
-![alt text](sebastian2296/https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_vm_conn.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_vm_conn.png)
 
 ## 4. Exportar puertos
 
@@ -63,4 +63,4 @@ En este punto debemos exportar los puertos 8888 y 8550 para poder acceder al wor
 
 * Vamos a la pestaña ports en la ventana de VScode en la que tenemos la conexión a la VM y agregamos los puertos clickeando en **Add port** y listo. 
 
-![alt text](sebastian2296/https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_ports.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_ports.png)
