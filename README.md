@@ -50,12 +50,12 @@ Vamos a la ventana de VScode y creamos la conexión a la VM:
 
 * Damos click sobre el ícono verde en la parte inferior izquierda y creamos la conexión con la opicón **Connect to Host**.
 
-![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/ssh_conn.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/ssh_conn.PNG)
 
 * En este punto deben encontrar el path al archivo config que creamos en el paso 3. Seleccionan ds4a y esperan a que se genere la conexión. En última instancia,
 deberían ver algo como:
 
-![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_vm_conn.PNG)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_vm_conn.png)
 
 ## 4. Exportar puertos
 
