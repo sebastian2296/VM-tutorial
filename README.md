@@ -22,7 +22,7 @@ Vamos a crear un config file para hacer la conexión por medio de SSH. Para esto
 
 * Abran la terminal de VScode
 
-![alt text](sebastian2296/https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_terminal.png)
+![alt text](https://github.com/sebastian2296/VM-tutorial/blob/main/img/VScode_terminal.png)
 
 * Creamos la carpeta en la que este archivo va a vivir con el siguiente comando: `mkdir .ssh` . Si les aparece que ya existe, no hay problema. Si no les aparece nada, tampoco hay problema :D 
 
